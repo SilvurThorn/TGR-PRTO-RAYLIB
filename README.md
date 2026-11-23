@@ -1,11 +1,18 @@
 # TGR-PRTO-RAYLIB
 TheGameRazer is a modern, retro styled 16-bit emulator(Fantasy Console) made in C using RayLib, this is still in prototype stages...
 
-### Want to help Support this project?
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BILLPC2684)
+# NEW PROGRESS COMING SOON!!!
+So what happened?\
+I(SilvurThorn) fell into a **deep depression** at the start of 2026 and been trying to build myself back up.\
+I made progress and lost it due to **filesystem corruptions**.\
+But we're back baby, it will be awhile before I update again.\
+But be ready, cause I got some improvements cooking... **;3c**
 
+### Want to help Support this project?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SilvurThorn)\
 Every little bit helps!! :3
-If you are a programmer, feel free to critice with a helpful push in the right direction!
+
+Hey, if you are a better programmer, feel free to criticize with a helpful push in the right direction! :)
 
 # Links:
 Official Website: [Koranva-Forest.com](https://Koranva-Forest.com)\
@@ -15,7 +22,7 @@ Official Wiki Page: [FantasyConsole/TheGameRazer](https://fantasyconsoles.org/wi
 Official ROMs: ~~[Koranva-Forest/Shop/TGR-Cartriges](https://Koranva-Forest.com/shop/cartriges)~~ Not setted up yet! [404]\
 3rd Party ROMS: ~~[Koranva-Forest/feed/TGR_ROMS](https://Koranva-Forest.com/feed?search=#TGR&#ROM)~~ Not setted up yet! [404]
 
-## Current Build: v0.0.47e (goal: v0.0.50x Alpha for Jun/2025)
+## Current Build: v0.0.47e (goal: v0.0.50x Alpha for Jun/2027)
 - Compile Errors: `No`  Just some redudant warning from gcc
 - Runnable Build: `Yes` Functional (For both windows and linux)
 - CPU Utilization: `Unstable` Functional, Not Finished Implementing Yet!! (still adding functionality to instructions)
@@ -34,7 +41,7 @@ After Compiling you can simply run `./TGR(.exe) --configure` and it will return,
 
 
 ## Why does GitHub updates take so long?
-- I myself(Maren/BILLPC2684) is mostly the only one working on this project, so it's a slow process
+- I myself(Maren/SilvurThorn) is mostly the only one working on this project, so it's a slow process
 - Life issues and other projects blocking me from getting work done
 PLEASE BE PATIENT... Updates will come ASAP on schedule(hopefully)
 
@@ -58,7 +65,7 @@ Just run in your terminal:
 #### * Manual
 Run these in your terminal:
 ```shell
-git clone https://github.com/BILLPC2684/TGR-PRTO-RAYLIB
+git clone https://github.com/SilvurThorn/TGR-PRTO-RAYLIB
 cd TGR-PRTO-RAYLIB/bin
 ```
 And follow these steps for the following dependecies
@@ -112,7 +119,7 @@ Just run in your terminal: (Currently only works for `Debian`/`Ubuntu`, `Fedora`
 Make sure you have `git`, `build-essentials`, `wget` and `unzip` installed\
 Run these in your terminal:
 ```shell
-git clone https://github.com/BILLPC2684/TGR-PRTO-RAYLIB
+git clone https://github.com/SilvurThorn/TGR-PRTO-RAYLIB
 cd TGR-PRTO-RAYLIB/bin
 ```
 
